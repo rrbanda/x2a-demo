@@ -1,7 +1,0 @@
----
-- name: Run hello_world
-  hosts: all
-
-
-  roles:
-    - hello_world
