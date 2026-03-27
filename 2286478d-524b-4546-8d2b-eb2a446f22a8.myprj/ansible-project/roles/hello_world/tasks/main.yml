@@ -1,0 +1,4 @@
+---
+- name: Log a message
+  ansible.builtin.debug:
+    msg: Hello, World!
