@@ -1,0 +1,8 @@
+[
+  {
+    "name": "hello_world",
+    "path": "hello_world",
+    "description": "A simple cookbook that logs the message \"Hello, World!\" to the Chef log during a client run.",
+    "technology": "Chef"
+  }
+]
